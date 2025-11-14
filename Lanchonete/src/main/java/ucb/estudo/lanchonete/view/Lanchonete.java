@@ -4,7 +4,7 @@
 
 package ucb.estudo.lanchonete.view;
 
-import ucb.estudo.lanchonete.controller.PedidoController;
+import ucb.estudo.lanchonete.control.PedidoController;
 import java.util.Scanner;
 
 // Classe principal (View no MVC)
